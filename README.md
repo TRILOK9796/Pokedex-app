@@ -8,7 +8,7 @@ that stays synchronized between the catalog, detail page, and Favorites tab.
 
 ## Screenshots
 
-Screenshots can be added here after running the app on a device or emulator.
+![Pokédex home screen](./screenshots/pokedex-home.png)
 
 ## How to run
 
