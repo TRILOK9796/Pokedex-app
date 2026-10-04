@@ -1,0 +1,24 @@
+name: pokedex_app
+description: "A polished Pokédex with offline-first, synchronized favorites."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  cached_network_image: ^4.0.4
+  dio: ^5.11.1
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.4.3
+  google_fonts: ^9.0.0
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
